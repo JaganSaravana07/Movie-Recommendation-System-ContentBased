@@ -1,0 +1,77 @@
+/*-------------------------------------------- HTML tags -----------------------------------------*/
+
+body{
+    font-family: 'Rubik';
+    letter-spacing: 3px;
+}
+
+button{
+    background-color: #228B00;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 60%;
+}
+
+button:hover {
+    background-color: #22BC22;
+}
+
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+h2{
+    color : #F0BB32
+}
+
+input[type=text], input[type=password]{
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid white;
+    box-sizing: border-box;
+}
+
+select{
+    width : 60%;
+    height : 40px;
+    margin : 10px;
+  }
+
+
+
+/*-------------------------------------------- User defined Classes -----------------------------------------*/
+
+.container {
+    padding: 16px;
+  }
+
+.moviebox{
+    background-color: #1B1B1B;
+    opacity : 0.8; 
+    width : 800px; 
+    text-align: center; 
+    padding : 30px; 
+    position : flex;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2em;
+  }
+
+.movieScreen{
+    background-color: black; 
+    opacity : 0.9; 
+    color: white; 
+    width : 1000px; 
+    text-align: center; 
+    padding : 30px; 
+    position : absolute; 
+    top : 14%; 
+    left : 15%;
+ }

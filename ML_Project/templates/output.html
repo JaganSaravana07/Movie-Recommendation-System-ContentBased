@@ -1,0 +1,38 @@
+<html>
+   <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+      <link rel="stylesheet" type="text/css" href="../static/index.css">
+   </head>   
+
+   <body background = "{{ url_for('static', filename='images/poster1.jpg') }}" style = "background-repeat: no-repeat; background-size: cover;">
+      
+      <div class = "movieScreen">
+         
+         <h1>MOVIE RECOMMENDATION SYSTEM</h1>
+         
+         
+         {% if(choice == 1) %}
+            <h2>Based on Overview</h2>
+         
+         {% elif(choice == 2) %}  
+            <h2>Based on Genre</h2>
+         
+         {% elif(choice == 3) %} 
+            <h2>Based on Story</h2>
+         
+         {% endif %}
+      
+         
+         {% for row in name %}
+         {% if(not(row == 0)) %}
+            <p>{{ row }}</p>
+         {% endif %}
+         {% endfor %}
+         
+
+      </div>
+
+   </body>
+
+</html>
