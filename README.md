@@ -25,6 +25,8 @@ python 3.6
 
 pip3
 
+Visual Stdio Code
+
 ```
 ##### Setup to run
 
