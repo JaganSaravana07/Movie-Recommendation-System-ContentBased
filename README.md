@@ -14,7 +14,8 @@ Movie recommendation systems using content-based filtering in machine learning a
 ### Technologies Used
 
 #### Web Technologies
-Html , Css , Flask
+FrontEnd:HTML5, CSS.
+BackEnd:Flask 
 
 #### Machine Learning Library In Python3
 Numpy , Pandas , sklearn(CountVectorizer, TfidfVectorizer, linear_kernel, sigmoid_kernel, cosine_similarity)
