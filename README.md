@@ -1,8 +1,8 @@
 # movie-recommendation-system-ContentBased
 Movie recommendation systems using content-based filtering in machine learning are designed to provide personalized movie suggestions to users based on the characteristics of movies they have previously shown interest in or rated.
-### Screenshot
+### Screenshots
   
-###### Home page
+###### Home Page
 
 ![home](https://github.com/JaganSaravana07/movie-recommendation-system-ContentBased/blob/a0915e9fd959f124c6e7650f497183df93784c9c/Screenshots/img1.png)
 ![home](https://github.com/JaganSaravana07/movie-recommendation-system-ContentBased/blob/a0915e9fd959f124c6e7650f497183df93784c9c/Screenshots/img2.png)
