@@ -22,9 +22,10 @@ Movie recommendation systems using content-based filtering in machine learning a
 ###### Movie Recommendation page
 
 ![recom](https://github.com/JaganSaravana07/movie-recommendation-system-ContentBased/blob/a0915e9fd959f124c6e7650f497183df93784c9c/Screenshots/img4.png)
-### Technologies Used
 
-#### Web Technologies
+## Technologies Used
+
+### Web Technologies
 **FrontEnd : HTML5, CSS**
 
 **BackEnd : Flask** 
