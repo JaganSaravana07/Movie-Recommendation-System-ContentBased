@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Computer Science Engineering Graduate**<br>Data Analyst<br>Digital Marketing<br>Front-end Developer<br>Web Designer<br> <br>
+**Computer Science Engineering Graduate** Data Analyst Digital Marketing Front-end Developer Web Designer
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jagansaravanan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagan_saravana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagansaravanan) 
